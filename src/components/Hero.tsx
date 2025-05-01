@@ -28,7 +28,7 @@ const Hero = () => {
       
       <div className="flex-1 flex justify-center">
         <img 
-          src="/lovable-uploads/0e87fc19-0cab-47eb-a4d2-969e890c308d.png" 
+          src="/lovable-uploads/556fba57-7f0a-4440-a6d3-4a752bdde79e.png" 
           alt="Faiqa's avatar" 
           className="max-h-[250px] w-auto"
         />
