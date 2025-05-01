@@ -2,6 +2,7 @@
 import React from 'react';
 import Navbar from '@/components/Navbar';
 import Work from '@/components/Work';
+import Blog from '@/components/Blog';
 import Footer from '@/components/Footer';
 
 const WorkPage = () => {
@@ -10,6 +11,7 @@ const WorkPage = () => {
       <Navbar />
       <main className="flex-1">
         <Work />
+        <Blog />
       </main>
       <Footer />
     </div>
